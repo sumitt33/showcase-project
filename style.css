@@ -1,7 +1,7 @@
 
 .logo{
-    height: 170px;
-    width: 170px;
+    height: 100px;
+    width: 100px;
 }
    
 
@@ -70,14 +70,14 @@ p {
 	color: white;
 	background-color: crimson;
 }
-.brand h1 {
-	font-size: 3rem;
-	text-transform: uppercase;
-	color: skyblue;
-}
-.brand h1 span {
-	color: blue;
-}
+/* .brand h1 { */
+	/* font-size: 2rem; */
+	/* text-transform: uppercase; */
+	
+	/* color: skyblue;} */
+/* .brand h1 span { */
+	/* color: skyblue; */
+ 
 
 /* Header section */
 #header {
