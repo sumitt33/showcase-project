@@ -15,13 +15,4 @@ This repository contains a business web.
 
 ---
 
-**HTML dor a Dialog Box**
-```html
-<div class="dialog">
-<h1>
-Action Needed</h1>
-<p> Do You Wish To Continue?</p>
-<button>Yes</button>
-<button>No</button>
-</div>
-```
+
